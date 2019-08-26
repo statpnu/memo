@@ -1,4 +1,6 @@
 
 
 
-<http://goo.gl/CEsUda>
+<https://statpnu.github.io/memo/>
+
+
