@@ -1,6 +1,4 @@
+# Priviate memo files
 
-
-
-<https://statpnu.github.io/memo/>
 
 
