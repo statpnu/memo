@@ -1,4 +1,4 @@
-# Priviate memo files
+# Private memo files
 
 
 
